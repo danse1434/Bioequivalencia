@@ -1,0 +1,97 @@
+---
+title: "Consulta Biodisponibilidad/Bioequivalencia 2018-09-07"
+author: "Daniel Sebastián Parra González"
+date: "7 de septiembre de 2018"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+El documento, a continuación, describe algunos ítems encontrados en la guía de requerimientos de equivalencia de productos farmacéuticos multifuente de la Organización Mundial de la Salud (OMS):    
+
+`Multisource (generic) pharmaceutical products: guidelines on registration requirements to establish interchangeability`
+
+Este documento representa ciertos aspectos de la versión de 2006 del anexo 7 de la guía de OMS. 
+
+## Exención de Estudios de Bioequivalencia ##
+Se tiene en ciertos casos que no se requieren estudios de BE:    
+
+* productos farmacéuticos para administración parenteral (IV, SC, e IM) en soluciones acuosas que contienen el mismo principio activo (p.a.) y excipientes similares al producto comparador. 
+En el caso de soluciones oleosas ambos productos deben tener el mismo vehículo oleoso. 
+En el caso de soluciones micelares, soluciones con agentes complejantes, o soluciones con co-solventes se debe tener la misma composición cualitativa y cuantitativa de los excipientes funcionales.
+
+* En el caso de EQV.FAR que son soluciones para uso peroral, deben contener la misma concentración de principio activo y los mismos excipientes funcionales (si BCS clase I) y los mismos excipientes en general (si el p.a. pertenece a otras clases). 
+
+* En el caso de EQV.FAR están en forma de polvo para reconstitución y se destinan para uso peroral o parenteral, se deben cumplir los anteriores.
+
+* En el caso de EQV.FAR que son gases.
+
+* En el caso de EQV.FAR que son para uso ótico u oftálmico en solución acuoso y contienen el mismo p.a. Algunos excipientes pueden ser diferentes si no hay cambios en biodisponibilidad, seguridad o eficacia del producto. 
+
+* En el caso de EQV.FAR que son productos tópicos preparados como soluciones acuosas (no se aplica a geles, emulsiones, o suspensiones).
+
+* En el caso de EQV.FAR usados para nebulización o gotas nasales, con el mismo p.a. y que son soluciones acuosas (no aplica para suspensiones para nebulización, gotas nasales, inhaladores de polvo seco, o inhaladores presurizados de dosis fija). 
+
+## Necesidad de Estudios de Bioequivalencia ##
+La guía permite la demostración de equivalencia in vivo a través de estudios de biodisponibilidad comparativa (Bioequivalencia), estudio farmacodinámico, o ensayos clínicos controlados. Los productos farmacéuticos que deben mostrar estudios de B.E.:    
+* Productos farmacéuticos orales y perorales de liberación inmediata.
+
+* Productos farmacéuticos no orales, no parenterales de acción sistémica (sistemas transdérmicos, supositorios, implantes anticonceptivos entre otros).
+
+* Productos farmacéuticos de liberación modificada y de acción sistémica.
+
+* Combinaciones de dosis fijas (FDC) con acción sistémica que requieren con alguno de sus p.a. con necesidad de demostración de B.E.
+
+* Productos farmacéuticos de acción local pero que no vienen en forma de solución.
+
+Existen ciertas excepciones que permiten la evaluación de B.E. mediante estudios de disolución en lugar de estudios clínicos. Los test de disolución se pueden encontrar en The International Pharmacopoeia (Ph. Int.). Las excepciones dependen del Sistema de Clasificación Biofarmacéutica.
+
+## Principios Éticos ##
+Los estudios B.D./B.E. deben ser llevados a cabo de acuerdo a los lineamientos de la guía para Buenas Prácticas Clínicas en Productos Farmacéuticos y guía de Buenas Prácticas de Laboratorio. 
+
+La investigación debe llevarse de acuerdo a los principios éticos contenidos en la Declaración de Helsinki como respeto por las personas, beneficencia y no maleficencia. Estos principios pueden ser complementados con las definiciones en los Lineamientos Éticos Internacionales para Investigación Biomédica de CIOMS y las leyes que existan en el país del estudio. 
+
+Los estudios de B.E. son no terapéuticos en naturaleza por tal no se espera un beneficio directo para los participantes en la mayoría de los casos. 
+
+En la ejecución del estudio se debe tener un adecuado proceso de consentimiento informado, de manera que el participante esté completamente consciente de los objetivos, problemas, riesgos o beneficios de la investigación propuesta. 
+
+Se debe demostrar previamente la calidad del producto a comparar con procedimientos correctos. El diseño debe ser el ideal de acuerdo a las características del producto, y debe ser planeado por investigadores con experiencia adecuada en estos estudios.
+
+Se debe concebir un protocolo de estudio adecuado con todas las etapas y procedimientos incluidos. Debe haber aprobación por parte de un Comité de Ética en Investigación en el sitio del estudio. 
+
+## Diseño del Estudio ##
+El estudio de preferencia para comparación de biodisponibilidad entre dos productos farmacéuticos es el estudio aleatorizado, dos periodos, dos secuencias, dosis única, cruzado en voluntarios sanos.
+
+Se debe diseñar el estudio con periodos de lavado adecuados (dados por las características de eliminación del fármaco). La dosis a escoger de manera predeterminada es la más alta, pero en el caso de medicamentos con eventos adversos serios se debe utilizar la dosis más baja (a comercializar) o considerar la realización del estudio en pacientes.
+
+Los estudios deben ser diseñados en lo posible como cruzados, pero en ciertas circunstancias se aceptan diseños en paralelo (como en fármacos con tiempos de vida media muy largos). En casos que el método analítico tenga baja sensibilidad se pueden hacer diseños en multidosis, aunque también en ciertas formas de dosificación con tendencia a acumularse. 
+
+## Sujetos de Estudio ##
+El cálculo de número de sujetos depende de varianza de error, nivel de significancia, precisión, poder y desviación de la media esperada. Como mínimo se esperan 12 voluntarios sanos. Se debe tener en cuenta en el cálculo la tasa de drop-outs y retiradas previo a la ejecución del estudio. Las razones deben ser discutidas con el participante, y no debe haber reemplazos de participantes. 
+
+Los estudios pueden ser llevados a cabo en hombre y/o mujeres, sin embargo, el riesgo de embarazo debe tenerse en cuenta. Las edades deben estar entre 18 y 55 años, con un BMI entre 18 y 30 kg/m2. 
+
+No debe tenerse historia de abuso de alcohol o cigarrillo. La factibilidad de participación debe evaluarse con pruebas de laboratorio estándar, historia médica y examen físico. En ciertos casos se deben hacer investigaciones médicas especiales. 
+
+Los sujetos con problemas en el tracto GI, convulsiones, desórdenes depresivos o hepáticos no deberían ser incluidos. Los sujetos deben ser monitorizados durante el estudio por problemas de toxicidad. En ciertos medicamentos deben hacer caracterizaciones de fenotipo y/o genotipo.
+
+## Condiciones del Estudio ##
+El estudio debe llevarse a cabo con la mayor dosis a comercializar, excepto en ciertos casos como problemas de seguridad o farmacocinética no lineal.
+
+Los participantes no deben consumir otros productos farmacéuticos (en lo posible y con ciertas excepciones). Debe hacerse estandarización de ejercicio, dieta, ingesta de fluido, y postura, debe hacerse restricción de toma de alcohol, cafeína, ciertos jugos de fruta. 
+
+Antes de la administración de la dosis debe haber ayuno por 10 horas con acceso libre a agua. En la mañana del estudio no se permite agua antes de la administración de la dosis. El volumen de agua debe ser estándar, todas las comidas deben ser estándar.
+
+Los tiempos de muestreo son mínimo 7, estos incluyen una muestra pre-dosis, una muestra al menos 1-2 puntos antes de $C_{max}$, 2 puntos cerca de $C_{max}$ y 3 a 4 puntos durante la fase de eliminación.
+
+## Determinación Bioanalítica ##
+Se debe desarrollar un método adecuado para la determinación del fármaco en la matriz biológico o por lo menos adoptarlo.
+
+En cualquier caso, el método de determinación debe estar validado con parámetros como selectividad, exactitud, precisión, efecto matriz, estabilidad de analitos definido previamente.
+
+Se debe definir el procedimiento de extracción de muestra, procesamiento, transporte y tratamiento previo análisis. Se debe hacer control de calidad del proceso bio analítico.
+
+## Bibliografía ##
+> 1. World Health Organization (WHO). Annex 7 - Multisource (generic) pharmaceutical products: guidelines on registration requirements to establish interchangeability. Geneva, Switzerland;2006 p. 139-158.

@@ -1,0 +1,62 @@
+Drug,BCS class,BCS,SCB,Droga,x,y
+Abacavir,III,3,SCB Clase 3,Abacavir,1,1
+Acetylsalicylic,III* **,3,SCB Clase 3,Acetilsalicilico,1,1
+Aciclovir,III,3,SCB Clase 3,Aciclovir,1,1
+Allopurinol,III,3,SCB Clase 3,Alopurinol,1,1
+Al(OH)3,IV,4,SCB Clase 4,Al(OH)3,1,1
+Amiloride,I,1,SCB Clase 1,Amilorida,1,1
+Ascorbic acid,III,3,SCB Clase 3,Ácido ascórbico,1,1
+Atenolol,III,3,SCB Clase 3,Atenolol,1,1
+Captopril,III,3,SCB Clase 3,Captopril,1,1
+Carbamazepin,II,2,SCB Clase 2,Carbamazepina,1,1
+Chloramphenicol,III,3,SCB Clase 3,Cloranfenicol,1,1
+Chloroquine,I,1,SCB Clase 1,Cloroquina,1,1
+Cimetidine,III,3,SCB Clase 3,Cimetidina,1,1
+Cloxacillin,III,3,SCB Clase 3,Cloxacilina,1,1
+Codeine,III,3,SCB Clase 3,Codeína,1,1
+Colchicine,III,3,SCB Clase 3,Colchicina,1,1
+Cyclophosphamide,I,1,SCB Clase 1,Ciclofosfamida,1,1
+Dapsone,II,2,SCB Clase 2,Dapsona,1,1
+Diazepam,I,1,SCB Clase 1,Diazepam,1,1
+Digoxine,I,1,SCB Clase 1,Digoxina,1,1
+Doxycycline,I,1,SCB Clase 1,Doxiciclina,1,1
+Ergotamine,III*,3,SCB Clase 3,Ergotamina,1,1
+Fluconazole,I,1,SCB Clase 1,Fluconazol,1,1
+Furosemide,IV*,4,SCB Clase 4,Furosemida,1,1
+Griseofulvin,II,2,SCB Clase 2,Griseofulvina,1,1
+Hydralazine,III*,3,SCB Clase 3,Hidralazina,1,1
+Hydrochlorothiazide,III,3,SCB Clase 3,Hidroclorotiazida,1,1
+Ibuprofen,II,2,SCB Clase 2,Ibuprofeno,1,1
+Indinavir,IV*,4,SCB Clase 4,Indinavir,1,1
+Levodopa,I*,1,SCB Clase 1,Levodopa,1,1
+Levonorgestrel,I,1,SCB Clase 1,Levonorgestrel,1,1
+Levothyroxine,III,3,SCB Clase 3,Levotiroxina,1,1
+Metformine,III,3,SCB Clase 3,Metformina,1,1
+Methyldopa,III*,3,SCB Clase 3,Metildopa,1,1
+Metronidazole,I,1,SCB Clase 1,Metronidazol,1,1
+Nelfinavir,IV*,4,SCB Clase 4,Nelfinavir,1,1
+Nifedipine,II*,2,SCB Clase 2,Nifedipina,1,1
+Nitrofurantoin,II,2,SCB Clase 2,Nitrofurantoina,1,1
+Paracetamol,III*,3,SCB Clase 3,Paracetamol,1,1
+Penicillamine,III,3,SCB Clase 3,Penicilamina,1,1
+Phenobarbital,I,1,SCB Clase 1,Fenobarbital,1,1
+Phenoxy-methylpenicillin,I,1,SCB Clase 1,Penicilina V,1,1
+Phenytoin,II,2,SCB Clase 2,Fenitoína,1,1
+Prednisolone,I,1,SCB Clase 1,Prednisolona,1,1
+Primaquine,I,1,SCB Clase 1,Primaquina,1,1
+Promethazine,III*,3,SCB Clase 3,Prometazina,1,1
+Propranolol,I*,1,SCB Clase 1,Propranolol,1,1
+Propylthiouracil,III,3,SCB Clase 3,Propiltiouracilo,1,1
+Pyrazinamide,I,1,SCB Clase 1,Pirazinamida,1,1
+Pyridostigmine,III,3,SCB Clase 3,Piridostigmina,1,1
+Riboflavin,I,1,SCB Clase 1,Riboflavina,1,1
+Ritonavir,IV*,4,SCB Clase 4,Ritonavir,1,1
+Salbutamol,I*,1,SCB Clase 1,Salbutamol,1,1
+Saquinavir,IV (mesylate)/IV,4,SCB Clase 4,Saquinavir,1,1
+Stavudine,I,1,SCB Clase 1,Estavudina,1,1
+Sulfamethoxazole,II,2,SCB Clase 2,Sulfametoxazol,1,1
+Theophylline,I,1,SCB Clase 1,Teofilina,1,1
+Thiamine,III,3,SCB Clase 3,Tiamina,1,1
+Trimethoprim,II,2,SCB Clase 2,Trimetoprima,1,1
+Valproic,II,2,SCB Clase 2,Valproico,1,1
+Zidovudine,I*,1,SCB Clase 1,Zidovudina,1,1

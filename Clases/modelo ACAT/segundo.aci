@@ -1,0 +1,6 @@
+segundo.run
+1           # Compartment number for bolus input
+1           # Simulation option number: 1-Ind, 2-Ind w/ error, 3-Pop, 4-Pop w/ error
+n           # Plot with options (Y/N) 
+2           # Exit SIM
+# Created by SIM

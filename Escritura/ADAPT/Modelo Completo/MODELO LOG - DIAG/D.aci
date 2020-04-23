@@ -1,0 +1,13 @@
+D.run
+Y           # Estimate (Y/N) KE        
+Y           # Estimate (Y/N) KA1       
+Y           # Estimate (Y/N) V         
+Y           # Estimate (Y/N) F         
+Y           # Estimate (Y/N) KA2       
+N           # Estimate (Y/N) SDinter   
+Y           # Estimate (Y/N) SDslope   
+2           # Normal (1) or Lognormal (2) distribution
+2           # Full (1) or diagonal (2) covariance
+3000        # Number of samples/EM iteration
+30          # Number of EM iterations
+# Created by MLEM

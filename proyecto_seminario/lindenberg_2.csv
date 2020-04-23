@@ -1,0 +1,29 @@
+Drug,BCS class,BCS,SCB,Droga,x,y
+Acetazolamide,IV,4,SCB Clase 4,Acetazolamida,1,1
+Amoxicillin,I,1,SCB Clase 1,Amoxicilina,1,1
+Azathioprine,IV,4,SCB Clase 4,Azatioprina,1,1
+Benznidazole,I,1,SCB Clase 1,Benznidazol,1,1
+Biperiden,III*,3,SCB Clase 3,Biperideno,1,1
+Didanosine,III**,3,SCB Clase 3,Didanosina,1,1
+Diethylcarbamazine,I,1,SCB Clase 1,Dietilcarbamazina,1,1
+DL-Methionine,I,1,SCB Clase 1,DL-metionina,1,1
+Ergocalciferol,III,3,SCB Clase 3,Ergocalciferol,1,1
+Ergometrine,III,3,SCB Clase 3,Ergometrina,1,1
+Erythromycin,III* **,3,SCB Clase 3,Eritromicina,1,1
+Ethambutol,III,3,SCB Clase 3,Etambutol,1,1
+Ethosuximide,I,1,SCB Clase 1,Etosuximida,1,1
+Iopanoic acid,II,2,SCB Clase 2,Ac. iopanoico,1,1
+Isoniazid,I*,1,SCB Clase 1,Isoniazida,1,1
+LiCO3,I,1,SCB Clase 1,LiCO3,1,1
+Methotrexate,III,3,SCB Clase 3,Metotrexato,1,1
+Nalidixic,II,2,SCB Clase 2,Ac.Nalidíxico,1,1
+Neostigmine,III,3,SCB Clase 3,Neostigmina,1,1
+Nevirapine,II,2,SCB Clase 2,Nevirapina,1,1
+Nicotinamide,I,1,SCB Clase 1,Nicotinamida,1,1
+Nifurtimox,III*,3,SCB Clase 3,Nifurtimox,1,1
+Norethisterone,I*,1,SCB Clase 1,Noretisterona,1,1
+Praziquantel,II*,2,SCB Clase 2,Praziquantel,1,1
+Proguanil,I*,1,SCB Clase 1,Proguanil,1,1
+Pyridoxine,I,1,SCB Clase 1,Piridoxina,1,1
+Reserpine,III,3,SCB Clase 3,Reserpina,1,1
+Rifampicin,II*,2,SCB Clase 2,Rifampicina,1,1

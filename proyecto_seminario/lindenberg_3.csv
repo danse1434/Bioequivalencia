@@ -1,0 +1,41 @@
+Drug,BCS class,SCB,Droga,x,y
+Albendazole,II/IV*,II/IV,Albendazol,1,1
+Amitriptyline,I/II*,I/II,Amitriptilina,1,1
+Artemether/Lumefantrine,II/IV*,II/IV,Arteméter/Lumefantrina,1,1
+Atropine,I/III*,I/III,Atropina,1,1
+Chlorpheniramine,I/III*,I/III,Clorfeniramina,1,1
+Chlorpromazine,II/IV*,II/IV,Clorpromazina,1,1
+Ciprofloxacin,II/IV*,II/IV,Ciprofloxacina,1,1
+Clofazimine,II/IV,II/IV,Clofazimina,1,1
+Clomiphene,I/III,I/III,Clomifeno,1,1
+Clomipramine,I/III*,I/III,Clomipramina,1,1
+Dexamethasone,I/III*,I/III,Dexametasona,1,1
+Diloxanide,II/IV**,II/IV,Diloxanida,1,1
+Efavirenz,II/IV,II/IV,Efavirenz,1,1
+Ethinylestradiol,I/III*,I/III,Etinilestradiol,1,1
+Folic acid,II/IV,II/IV,Ácido fólico,1,1
+Glibenclamide,II/IV,II/IV,Glibenclamida,1,1
+Glyceryl Trinitrate,I/III*,I/III,Nitroglicerina,1,1
+Haloperidol,II/IV*,II/IV,Haloperidol,1,1
+Isosorbid dinitrate,I/III,I/III,Dinitrato isosorbida,1,1
+Ivermectin,II/IV,II/IV,Ivermectina,1,1
+Lamivudin,I/III,I/III,Lamivudina,1,1
+Levamisole,I/III,I/III,Levamisol,1,1
+Lopinavir,II/IV*,II/IV,Lopinavir,1,1
+Mebendazole,II/IV,II/IV,Mebendazol,1,1
+Mefloquine,II/IV,II/IV,Mefloquina,1,1
+Metoclopramide,I/III*,I/III,Metoclopramida,1,1
+Morphine,I/III*,I/III,Morfina,1,1
+Niclosamide,II/IV,II/IV,Niclosamida,1,1
+Nystatin,III/IV,III/IV,Nistatina,1,1
+Pyrantel,II/IV,II/IV,Pirantel,1,1
+Pyrimethamine,II/IV,II/IV,Pirimetamina,1,1
+Quinine,I/III,I/III,Quinina,1,1
+Retinol,II/IV,II/IV,Retinol,1,1
+NaI,I/III,I/III,NaI,1,1
+Spironolactone,II/IV*,II/IV,Espironolactona,1,1
+Sulfadiazine,II/IV,II/IV,Sulfadiazina,1,1
+Sulfasalazine,II/IV,II/IV,Sulfasalazina,1,1
+Triclabendazole,II/IV,II/IV,Triclabendazol,1,1
+Verapamil,I/II*,I/II,Verapamilo,1,1
+Warfarin,I/II,I/II,Warfarina,1,1

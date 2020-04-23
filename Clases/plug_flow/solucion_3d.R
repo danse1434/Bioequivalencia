@@ -2,9 +2,9 @@
 ## Nombre del Script: Estudio de modelamiento de Plug-Flow ----------------
 ##  
 ## Proposito del Script: realizar un estudio del modelo Plug-Flow para enten
-## der la relevancia del numero de dosis, nÃºmero de absorcion, etc..
+## der la relevancia del numero de dosis, número de absorcion, etc..
 ##
-## GrÃ¡ficos 3D con modelo plug-flow
+## Gráficos 3D con modelo plug-flow
 ##  
 ## Autor: Daniel S. Parra Gonzalez 
 ## Fecha de creacion:  24-10-2019 
@@ -15,18 +15,18 @@
 ##------------------------------------------------------------------------#
 ##########################################################################-
 # Apertura de paquetes
-library(rgl) # Se abre un paquete Ãºtil para realiza grÃ¡ficos en 3D
+library(rgl) # Se abre un paquete útil para realiza gráficos en 3D
 library(deSolve)
 library(tidyverse)
 library(Rcpp)
 
 ##########################################################################-
-# DefiniciÃ³n de valores iniciales
-An = 5.0 # N. de absorciÃ³n
+# Definición de valores iniciales
+An = 5.0 # N. de absorción
 Dn = 1.0 # N. de dosis
 
 ##########################################################################-
-# FunciÃ³n de Biodisponibilidad --------------------------------------------
+# Función de Biodisponibilidad --------------------------------------------
 ##########################################################################-
 ##:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ##  1 Especificar funcion (g) para obtener biodisponibilidad teniendo en 
@@ -41,7 +41,7 @@ Dn = 1.0 # N. de dosis
 ##  7 Escribir los resultados en forma de tabla
 ##  8 Modificar la tabla como numeros, y calcular F que es la biodisponibi-
 ##  lidad calculada (F)
-##  9 Retornar como resultado principal, el Ãºltimo valor de F obtenido en la
+##  9 Retornar como resultado principal, el último valor de F obtenido en la
 ##  base de datos.
 ##:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -55,7 +55,7 @@ f = function(Dn, An, Do) {
   }
   # Condiciones iniciales
   y <- c(r = 1, C = 0)
-  # ParÃ¡metros del modelo
+  # Parámetros del modelo
   parms <- c(Dn = Dn, Do = Do, An = An)
   # Sistema de coordenada
   coord <- seq(0, 1, 0.01)
@@ -81,10 +81,10 @@ f = function(Dn, An, Do) {
 # microbenchmark::microbenchmark(f(An = 5, Dn = 1.0, Do = 2))
 
 ##########################################################################-
-# GrÃ¡fico de contorno -----------------------------------------------------
+# Gráfico de contorno -----------------------------------------------------
 ##########################################################################-
 ##:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-##  1 Escribir una tabla con valores en escala logarÃ­tmica
+##  1 Escribir una tabla con valores en escala logarítmica
 ##  2 Transformar los valores de parametros a escala ordinaria
 ##  3 Vectorizar la funcion f en los parametros a explorar, en este caso Do,
 ##  y Dn.
@@ -112,5 +112,5 @@ persp3d(x = dx$Dn, y = dx$Do, z = OUT,
         xlab = 'Dn', ylab = 'Do')
 rgl.postscript('persp3d.pdf', 'pdf')
 
-# GrÃ¡fico de contorno
+# Gráfico de contorno
 contour(An, Dn, OUT)
